@@ -6,6 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/mastersam07/pub-manager?style=flat-square)
 
 >>> 🤔🤔🤔 [What do you call someone that works in a pub?](https://twitter.com/mkobuolys/status/1616797891762262016)
+>>>
 >>> As dart/flutter devs, we visit the "pub" daily. However, we might stumble on some cool package on pub but we arent in need of them at that point.
 
 Pub Manager is an experimental solution to assist with marking a dart/flutter package on pub.dev as favourite.
