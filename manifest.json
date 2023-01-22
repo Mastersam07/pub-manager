@@ -1,0 +1,15 @@
+{
+    "name": "Pub Manager",
+    "description": "An experimental solution to assist with making a dart/flutter package on pub.dev as favourite",
+    "version": "0.1",
+    "manifest_version": 3,
+    "author": "Samuel Abada",
+    "homepage_url": "https://github.com/Mastersam07/pub-manager",
+    "content_scripts": [
+        {
+            "matches": ["https://pub.dev/*"],
+            "js": ["./script.js"]
+        }
+    ],
+    "incognito": "not_allowed"
+}
