@@ -46,11 +46,12 @@ To add the Pub manager module extension, you need to follow some steps.
 
 6. Extension successfully installed
 
-<img src="ss/1.png" width="400">
 <br>
-<img src="ss/2.png" width="400">
+<img src="ss/1.png">
 <br>
-<img src="ss/3.png" width="400">
+<img src="ss/2.png">
+<br>
+<img src="ss/3.png">
 <br>
 <br>
 
@@ -70,9 +71,10 @@ This plugin only works on pub.dev.
 
 3. Click the add to favourites button.
 
-<img src="ss/4.png" width="400">
 <br>
-<img src="ss/5.png" width="400">
+<img src="ss/4.png">
+<br>
+<img src="ss/5.png">
 <br>
 <br>
 
