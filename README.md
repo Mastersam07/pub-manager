@@ -13,11 +13,48 @@ Pub Manager is an experimental solution to assist with marking a dart/flutter pa
 
 ## 🎖 Installing
 
-```dart
-// COMING SOON
+This is a chrome extension. At the moment, it is accessible via github releases and would be migrated to the chrome web store in time.
+
+### From Version Control
+
+To add the Pub manager module extension, you need to follow some steps.
+
+1. 
+```bash
+git clone https://github.com/Mastersam07/pub-manager
 ```
 
-#### OR
+2. On your chrome browser, navigate to More Tools > Extensions.
+
+3. Enable developer mode and select "Load unpacked". Select the cloned repository/directory
+
+4. Extension successfully installed
+
+### From Extracted Binary
+
+To add the Pub manager module extension, you need to follow some steps.
+
+1. Download from [this link](https://github.com/Mastersam07/pub-manager/releases/tag/v0.1)
+
+2. Head to [crxextrator.com](https://crxextractor.com/).
+
+3. Supply the download *.crx file and extract/get source code. Download and extract source code.
+
+4. On your chrome browser, navigate to More Tools > Extensions.
+
+5. Enable developer mode and select "Load unpacked". Select the extracted source code
+
+6. Extension successfully installed
+
+<img src="ss/1.png" width="400">
+<br>
+<img src="ss/2.png" width="400">
+<br>
+<img src="ss/3.png" width="400">
+<br>
+<br>
+
+### From Chrome Web Store
 
 ```dart
 // COMING SOON
@@ -25,11 +62,19 @@ Pub Manager is an experimental solution to assist with marking a dart/flutter pa
 
 ## 🎮 How To Use
 
-### Chrome extension
+This plugin only works on pub.dev.
 
-```dart
-// COMING SOON
-```
+1. Visit pub.dev
+
+2. Navigate to any package of choice.
+
+3. Click the add to favourites button.
+
+<img src="ss/4.png" width="400">
+<br>
+<img src="ss/5.png" width="400">
+<br>
+<br>
 
 ## 🐛 Bugs/Requests
 
